@@ -1,0 +1,38 @@
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.pdb
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.xml
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Form1.resources
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Resources.resources
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.GenerateResource.Cache
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+C:\Users\Tica\documents\visual studio 2012\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+C:\Users\Tica\Desktop\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\Interop.WMPLib.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.ResolveComReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\SpaceShooter Game.xml
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\Interop.WMPLib.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter_Game.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\SpaceShooter Game\SpaceShooter Game\obj\Debug\SpaceShooter Game.vbproj.GenerateResource.Cache
